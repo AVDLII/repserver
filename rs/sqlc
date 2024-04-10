@@ -1,0 +1,4 @@
+#! /bin/bash
+
+/opt/mssql-tools18/bin/sqlcmd -S 192.168.100.81,1433 -C -U sa -P redhat -d edb -Q "INSERT INTO test VALUES ($1, '$2');"
+
