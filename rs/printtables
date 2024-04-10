@@ -1,0 +1,3 @@
+-printpublishedtables edb_pub
+  -repsvrfile /root/rs/pubsvrfile.prop
+

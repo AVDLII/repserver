@@ -1,0 +1,11 @@
+-addpubdb
+  -repsvrfile /root/rs/pubsvrfile.prop
+  -dbtype sqlserver
+  -dbhost 192.168.190.15
+  -dbport 1433
+  -dbuser sa
+  -dbpassword v6eIU1p/ooI=
+  -database EDB_TEST
+  -repgrouptype s
+  -urloptions="encrypt=false"
+

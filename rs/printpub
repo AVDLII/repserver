@@ -1,0 +1,3 @@
+-printpublist
+  -repsvrfile /root/rs/pubsvrfile.prop
+

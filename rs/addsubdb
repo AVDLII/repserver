@@ -1,0 +1,9 @@
+-addsubdb
+  -repsvrfile /root/rs/subsvrfile.prop
+  -dbtype enterprisedb
+  -dbhost 192.168.190.46
+  -dbport 5444
+  -dbuser subuser
+  -dbpassword a3hCwyfnNzo=
+  -database subdb
+

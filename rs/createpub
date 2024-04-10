@@ -1,0 +1,6 @@
+-createpub edb_pub2
+  -repsvrfile /root/rs/pubsvrfile.prop
+  -pubdbid 99
+  -reptype t
+  -alltables
+

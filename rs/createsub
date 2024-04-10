@@ -1,0 +1,6 @@
+-createsub edb_sub
+  -subsvrfile /root/rs/subsvrfile.prop
+  -subdbid 90
+  -pubsvrfile /root/rs/pubsvrfile.prop
+  -pubname edb_pub
+

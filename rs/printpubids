@@ -1,0 +1,3 @@
+-printpubdbids
+  -repsvrfile /root/rs/pubsvrfile.prop
+
